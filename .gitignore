@@ -3,7 +3,4 @@ dist-newstyle/
 *.hi
 *.o
 *~
-.stack-work/
-stack.yaml
-stack.yaml.lock
 .DS_Store
